@@ -21,8 +21,8 @@ fazer login, criar novo repositorio, e abrir o cmd
 //comandos
 git init
 git add.
-git commit -m
-git remote add origin
+git commit -m "commit 01"
+git remote add origin "link do repositorio"
 git push -u origin master
 
 2. //copiar o codigo do github e abrir o terminal
